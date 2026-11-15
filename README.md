@@ -136,7 +136,7 @@ The Logistic Regression model achieved **96.67% accuracy** on the test dataset.
 
 ## Author
 
-AI & Machine Learning Student
+AI & Machine Learning Student(SRI RANGA SAI)
 
 ## License
 
